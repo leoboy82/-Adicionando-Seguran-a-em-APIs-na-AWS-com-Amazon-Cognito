@@ -55,7 +55,7 @@ Neste guia, você encontrará um passo a passo para desenvolver a atividade prá
 {
   "id": "003",
   "price": 600
-}
+}```
 
 4. Envie a requisição.
 
