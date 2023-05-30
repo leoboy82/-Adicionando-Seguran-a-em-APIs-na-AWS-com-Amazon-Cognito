@@ -111,3 +111,4 @@ Neste guia, você encontrará um passo a passo para desenvolver a atividade prá
 14. Envie a requisição.
 
 Isso conclui o roteiro para o desenvolvimento da atividade prática do DIO Live Coding do dia 17/11/2021. Certifique-se de seguir as etapas na ordem apresentada para garantir o correto funcionamento da solução.
+
